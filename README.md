@@ -1,2 +1,2 @@
-# longjf-phd.github.io
+# longjf-PhD.github.io
 A PhD
